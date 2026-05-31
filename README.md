@@ -10,7 +10,7 @@ This study aims to investigate the factors that lead languages to lose morpholog
 
 ## Databases
 
-- Grammbank
+- Grambank
 - Wikidata
 
 ## Bibliography
