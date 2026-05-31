@@ -8,6 +8,11 @@
 
 This study aims to investigate the factors that lead languages to lose morphological complexity. Previous studies have argued that languages with larger speaker populations tend to exhibit lower morphological complexity (Lupyan & Dale, 2010), while more recent work suggests that historical factors must also be taken into account (Shcherbakova et al., 2023). We therefore seek to evaluate whether speaker population size correlates with morphological simplification once both historical and geographical factors are controlled for. Historical factors are represented here by the depth of a language’s phylogenetic tree, while geographical factors are represented by the number of neighboring languages and the morphological distance between a language and its geographical neighbors.
 
+## Databases
+
+- Grammbank
+- Wikidata
+
 ## Bibliography
 
 - Shcherbakova, Olena, Susanne Maria Michaelis, Hannah J. Haynie, Sam Passmore, Volker Gast, Russell D. Gray, Simon J. Greenhill, Damián E. Blasi, et Hedvig Skirgård. 2023. « Societies of Strangers Do Not Speak Less Complex Languages ». Science Advances 9(33): eadf7704. doi:10.1126/sciadv.adf7704.
